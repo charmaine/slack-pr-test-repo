@@ -1,9 +1,3 @@
 # slack-pr-test-repo
 
-Testing a change to the README
-
-Here's a change
-
-lallalalala
-
-jahdkfjhkdjfhjksdf
+Feel free to test changes in this README!
